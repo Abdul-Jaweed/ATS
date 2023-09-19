@@ -90,7 +90,7 @@ In conclusion, the Resume Matcher is a powerful tool for efficiently matching jo
 
 ## Contributors
 
-- Abdul Jaweed - Project Lead
+- **Abdul Jaweed - Project Lead**
 
 
 ## License
