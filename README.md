@@ -48,3 +48,18 @@ Follow these steps to get started with the Resume Matcher:
     ```python
     pip install -r requirements.txt
     ```
+
+
+
+
+
+## Project Structure
+
+The project directory structure is organized as follows:
+
+- `fetching_data/`: Contains the extracted resume data and job description data.
+- `preprocessed_data/`: Stores the preprocessed and tokenized text data.
+- `word_embedding_data/`: Stores the generated word embeddings.
+- `job_matching/`: Contains the main script and modules for matching resumes with job descriptions.
+
+You can navigate to these directories to access specific data and modules related to different project stages.
