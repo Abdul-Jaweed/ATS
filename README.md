@@ -1,6 +1,6 @@
 # Resume Matcher
 
-![Project Logo](logo.png)
+![Project Logo](https://github.com/Abdul-Jaweed/Resume-Matcher/blob/main/logo.png)
 
 ## Overview
 
@@ -94,5 +94,5 @@ In conclusion, the Resume Matcher is a powerful tool for efficiently matching jo
 
 
 ## License
-This project is licensed under the Creative Commons Legal Code License - see the (LICENSE)[LICENSE] file for details.
+This project is licensed under the Creative Commons Legal Code License - see the [LICENSE](LICENSE) file for details.
 
