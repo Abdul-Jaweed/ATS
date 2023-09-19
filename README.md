@@ -32,3 +32,19 @@ Follow these steps to get started with the Resume Matcher:
    ```bash
    git clone https://github.com/Abdul-Jaweed/Resume-Matcher.git
    cd resume-matcher
+
+2. Creating a Virtual Enviroment:
+    ```python
+    python -m venv ./env
+    ```
+
+3. Activating Virtual Environment by running setup.sh file:
+    ```bash
+    chmod +x setup.sh
+    source setup.sh
+    ```
+
+4. Install the required Python dependencies:
+    ```python
+    pip install -r requirements.txt
+    ```
