@@ -51,8 +51,6 @@ Follow these steps to get started with the Resume Matcher:
 
 
 
-
-
 ## Project Structure
 
 The project directory structure is organized as follows:
@@ -63,4 +61,38 @@ The project directory structure is organized as follows:
 - `job_matching/`: Contains the main script and modules for matching resumes with job descriptions.
 
 You can navigate to these directories to access the specific code related to different project stages. Each folder contains code files and modules to perform its respective task.
+
+
+
+
+## Results
+
+The matching results are stored in the `output/` directory in JSON format. You can explore the top candidates for each job description based on similarity scores.
+
+
+## Challenges Faced
+
+**During the project, we encountered several challenges, including:**
+
+
+- Data extraction complexity
+- Text preprocessing challenges
+- Resource intensiveness
+- Data storage and retrieval
+- Cosine similarity calculations
+- Performance optimization
+
+
+## Conclusion
+
+In conclusion, the Resume Matcher is a powerful tool for efficiently matching job descriptions with candidate resumes. It can greatly aid in the recruitment process by identifying the most suitable candidates for various job roles.
+
+
+## Contributors
+
+- Abdul Jaweed - Project Lead
+
+
+## License
+This project is licensed under the Creative Commons Legal Code License - see the (LICENSE)[LICENSE] file for details.
 
